@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with agile teams.
 - 📫 How to reach me: telegram @ryy197340
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: I love meeting people and eat foot. 😄
+- ⚡ Fun fact: I love meeting people and eat food. 😄
 
 ## 🔥 My github status
 
