@@ -38,7 +38,7 @@
 <div>So let the world run as it may,</div>
 <div>He'll carve the path, come what may.</div>
 <div>For in the chains, he finds his lore—</div>
-<div>A coder'’'s work is evermore.</div>
+<div>A coder's work is evermore.</div>
 </td>
 </tr>
 </table>
