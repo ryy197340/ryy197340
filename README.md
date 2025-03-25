@@ -2,7 +2,7 @@
 - 👀 I’m specialized in blockchain and web development.
 - 🌱 I’m currently learning open AI technology
 - 💞️ I’m looking to collaborate with agile teams.
-- 📫 How to reach me: telegram @ryy15640 | discord @ryy15640
+- 📫 How to reach me: telegram @ryy197340 | discord @ryy197340
 - 😄 Pronouns: Mr.
 
 ## 🔥 My github status
