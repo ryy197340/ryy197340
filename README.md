@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ryy197340
-- 👀 I’m specialized in blockchain and web development.
-- 🌱 I’m currently learning open AI technology
+- 👋 Hello.
+- 👀 I’m specialized in AI, devOps, blockchain, and web development.
+- 🌱 I’m currently learning Go, and Rust programming.
 - 💞️ I’m looking to collaborate with agile teams.
-- 📫 How to reach me: telegram @ryy197340 | discord @ryy197340
-- 😄 Pronouns: Mr.
+- 😄 Pronouns: He/Him.
 
 ## 🔥 My github status
 
