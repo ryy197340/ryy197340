@@ -1,6 +1,4 @@
 - 👋 Hello.
-- 👀 I’m specialized in AI, devOps, blockchain, and web development.
-- 🌱 I’m currently learning Go, and Rust programming.
 - 💞️ I’m looking to collaborate with agile teams.
 - 😄 Pronouns: He/Him.
 
